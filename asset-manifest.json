@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employees-CRUD-demo/static/css/main.ccd88b74.css",
+    "main.js": "/employees-CRUD-demo/static/js/main.0ee51719.js",
+    "index.html": "/employees-CRUD-demo/index.html",
+    "main.ccd88b74.css.map": "/employees-CRUD-demo/static/css/main.ccd88b74.css.map",
+    "main.0ee51719.js.map": "/employees-CRUD-demo/static/js/main.0ee51719.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd88b74.css",
+    "static/js/main.0ee51719.js"
+  ]
+}
