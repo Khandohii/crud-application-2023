@@ -7,7 +7,6 @@ const EmployeesList = ({data, onDelete, onToggleProp, onfilterProp}) => {
         const {id, ...itemProps} = item;
 
         return(
-            // <EmployeesListItem name={item.name} salary={item.salary} />
             <EmployeesListItem 
             key={id} 
             {...itemProps} 
